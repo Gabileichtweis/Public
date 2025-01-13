@@ -1,0 +1,3 @@
+# NIKEL
+
+This simple project in HTML, CSS, and JavaScript aims to create an interactive page for managing financial transactions, where the user can record income, expenses, and view the current balance. Using the browser's local storage (localStorage), transaction information is saved persistently, allowing the user to access their data even after closing the browser. The interface is simple and intuitive, with fields to add transactions and a display of the updated balance as new income or expenses are recorded. The application uses JavaScript to handle data and update the page content without the need for reloading.
